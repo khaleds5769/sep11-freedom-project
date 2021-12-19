@@ -1,17 +1,18 @@
 # Entry 2
 ##### 12/19/21
 
-The process of learning firebase, I am learning new things as I go on the internet. I created an account on [firebase.google.com](https://firebase.google.com/docs/web/setup) and created an a project on it. I named my project `my-to-do-list`. I also learned that you would need to download a `configuration` and a `cdn` on an ide which I did do. 
+In the process of learning firebase, I am learning new things as I go on the internet. I created an account on [firebase.google.com](https://firebase.google.com/docs/web/setup) and created a project on it. I named my project `my-to-do-list`. I also learned that you would need to download a `configuration` and a `cdn` on an ide which I did do. 
 
 I watched a couple of [youtube](https://www.youtube.com/watch?v=rQvOAnNvcNQ&t=158s) videos that explained the initial [setup](https://youtu.be/9kRgVxULbag) for firebase and how to get started with firebase. 
 
 ### Skills: 
 
-Some `skills` I developed since the last blog entry is I am now more focused on fundaments of firebase and another skill I developed is being able to understand some of the things I am looking at. The first time I looked at some of the code and just the basics I was overwhelmed with the way everything looked. 
+Some `skills` I developed since the last blog entry are that I am now more focused on the fundaments of firebase and another skill I developed is being able to understand some of the things I am looking at. The first time I looked at some of the code and just the basics I was overwhelmed with the way everything looked. 
 
 ### Engineering Design Process: 
 
-Currenly where I am at in the `Engineering Design Process ` is, I am researching, asking, and creating. I still need a little more research before digging deep into firebase. I am trying to take code to test and see what each code does/mean. 
+Currently where I am at in the `Engineering Design Process ` is, I am researching, asking, and creating. I still need a little more research before digging deep into firebase. I am trying to take code to test and see what each code does/means. 
+
 
 
 
