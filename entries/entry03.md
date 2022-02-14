@@ -40,11 +40,12 @@ public static class User {
   
  ```
  
-Engineering Design Process: 
+## Engineering Design Process: 
 
 Currently where I am in the `Engineering Design Process` is that I am testing and researching the different functions/names for firebase. Firebase has the same functions as the other languages, however, it may have a different name. 
 
-Skills: 
+
+## Skills: 
 
 The `skills` I have gained through my learning process is openly aware of the different things I am observing on the internet. A thing I am starting to keep an eye out for is dates on videos and websites. Outdated websites and videos may not be helpful as a video made in 2021 or this year. Another skill I gained is time management. I am controlling how long I search and how long I should experiment. 
 
