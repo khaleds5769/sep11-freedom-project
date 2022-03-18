@@ -23,22 +23,26 @@ const firebaseApp = initializeapp({
 ```
 ## What I need to know
 
-I needed to know how to start saving data from the user. I found that in order to take the user's [input](https://firebase.google.com/docs/database/admin/save-data) and save it you will need to use `public String`. 
+I need to know how to make a function with firebase as well grabbing important lines of code from the firestore. 
 
 Here is how it would look: 
 
 ```js
-public static class User {
+firebase.auth().register(username, password) {
 
-  public String date_of_birth;
-  public String full_name;
-  public String nickname;
-
-  public User(String dateOfBirth, String fullName) {
-    // ...
-  }
+}
   
  ```
+ This line of code gets the data from [firestore](https://firebase.google.com/docs/firestore/query-data/get-data) and then it runs the function: 
+ 
+ ```js 
+ 
+ 
+ docRef.get().then(function(doc){ 
+     
+}
+
+```
  
 ## Engineering Design Process: 
 
