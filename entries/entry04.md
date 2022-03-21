@@ -32,7 +32,7 @@ db.createCollection("username").add(username)
  
  ### Conflicts: 
  
-The problem I am facing currently is that I can get the data the user inputs on the login page, however, the user can't input the same information to log in. I am currently trying to solve this problem by going back to the google firebase website. 
+The problem I am facing currently is that I can get the data the user inputs on the login page, however, the user can't [input](https://console.firebase.google.com/u/0/project/my-to-do-list-fc7b1/functions) the same information to log in. I am currently trying to solve this problem by going back to the google firebase website. 
 
 
 
