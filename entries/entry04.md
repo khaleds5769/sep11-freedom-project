@@ -2,6 +2,10 @@
 ##### 3/21/22
 
 
+### Where I'm at for the Freedom Project: 
+
+
+
 
 Text
 
