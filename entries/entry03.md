@@ -7,7 +7,7 @@ As I continue to search the web, I learned new information about firebase. I wan
 
 ## What I found: 
 
-I found the information I need to know. Backtrack, I realized that after downloading [firebase](firebase.google.com) onto my ide for the first time, I downloaded things I didn't need.I also didn't really know what got downloaded into my ide. 
+I found the information I need to know. Backtrack, I realized that after downloading firebase onto my ide for the first time, I downloaded things I didn't need.I also didn't really know what got downloaded into my ide. 
 
 Here is what I imported: 
 
@@ -46,7 +46,7 @@ firebase.auth().register(username, password) {
  
 ## Engineering Design Process: 
 
-Currently where I am in the `Engineering Design Process` is that I am testing and researching the different functions/names for firebase. Firebase has the same functions as the other languages, however, it may have a different name. 
+Currently where I am in the `Engineering Design Process` is that I am testing and researching the different code [functions](https://firebase.google.com/docs/functions/?authuser=0#how_does_it_work) and how to run functions locally for firebase. Firebase has the same functions as the other languages, however, it may have a different name. 
 
 
 ## Skills: 
