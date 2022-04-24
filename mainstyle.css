@@ -1,0 +1,65 @@
+/* body {
+    background: rgb(186,27,227);
+    background: linear-gradient(90deg, rgba(186,27,227,1) 0%, rgba(24,67,187,1) 100%);
+
+}
+*/
+body {
+    background: rgb(67,54,236);
+background: linear-gradient(90deg, rgba(67,54,236,1) 0%, rgba(20,244,225,1) 100%);
+}
+
+.cent {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    padding-top: 20px;
+}
+
+.form-input {
+    margin: 30;
+}
+.header {
+    padding: 30px;
+    text-align: center;
+    color: black;
+    font-size: 65px;
+  }
+
+  .form button.btn {
+    background: rgba(0,84,166,0.95);
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 2px 2px rgba(0,0,0,.15);
+    color: #fff;
+    float: left;
+    font-family: 'Arvo', serif;
+    font-size: 16px;
+    height: 60px;
+    width: 60px;
+}
+
+.form input {
+    background: rgba(228,228,228,.95);
+    border: none;
+    box-shadow: 0 2px 2px rgba(0,0,0,.15);
+    color: #473e39;
+    float: left;
+    font-family: 'Arvo', serif;
+    font-size: 16px;
+    height: 60px;
+    margin: 0 5px 0 0;
+    padding: 0 20px;
+    width: 315px;
+}
+
+
+.listnames {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
