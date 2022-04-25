@@ -3,8 +3,7 @@
 
 
 ## Progress: 
-
-Wrapping up the Mvp was stressful because I got so many conflicts trying to arrive to the end. I needed to save what the user adds and deletes inside the Todo List.
+Wrapping up the Mvp was stressful because I got so many conflicts trying to arrive at the end. I needed to save what the user adds and deletes inside the Todo List.
 
 ## Logging in the User!
 
@@ -53,7 +52,7 @@ e.preventDefault()
             
 ```
 
-I am using what's getting sent to the firebase [console](https://console.firebase.google.com/u/0/project/my-to-do-list-fc7b1/firestore/data/~2Faccounts~2F0Kwj7SjaJuVvstBGiUBHZsAKSzg2) and saving it in a variable so that I could then push whatever the User inputs inside the input field. I'm then creating a list and finding the value of the list which is the inputs. This is all done when clicked on the button. 
+I am using what's getting sent to the firebase [console](https://console.firebase.google.com/u/0/project/my-to-do-list-fc7b1/firestore/data/~2Faccounts~2F0Kwj7SjaJuVvstBGiUBHZsAKSzg2) and saving it in a variable so that I could then push whatever the User inputs inside the input field. I'm then creating a list and finding the value of the list which is the inputs. This is all done when clicking on the button. 
 
 
 
@@ -81,8 +80,7 @@ Currently where I'm at in the [Engineering Design Process](https://hstatsep.gith
 
 ## Skills: 
 
-I have gained lots of skills throughout this whole process. I have gained the skill of patience and trial and error. I have gained the skill to research online as well as communication. I had difficulties and I needed some understanding and this made me ask questions. 
-
+I have gained lots of skills throughout this whole process. I have gained the skill of patience and trial and error. I have gained the skill to research online as well as communicate. I had difficulties and I needed some understanding and this made me ask questions. 
 
 
 
