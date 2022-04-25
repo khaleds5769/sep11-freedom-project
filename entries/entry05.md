@@ -79,7 +79,7 @@ I am now using the same variable `collectionInfo` to pop an input. This helps th
 Currently where I'm at in the [Engineering Design Process](https://hstatsep.github.io/students/#edp) is a mix of testing and improving. I am testing different things that may work and I am constantly trying to improve on things that could be improved on. This is an MVP so I believe there's still lots of improvement needed. 
 
 
-##Skills: 
+## Skills: 
 
 I have gained lots of skills throughout this whole process. I have gained the skill of patience and trial and error. I have gained the skill to research online as well as communication. I had difficulties and I needed some understanding and this made me ask questions. 
 
