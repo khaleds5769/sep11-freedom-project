@@ -76,6 +76,7 @@ I am now using the same variable `collectionInfo` to pop an input. This helps th
 
 ## Engineering Design Process: 
 
+Currently where I'm at in the [Engineering Design Process](https://hstatsep.github.io/students/#edp) is a mix of testing and improving. I am testing different things that may work and I am constantly trying to improve on things that could be improved on. This is an MVP so I believe there's still lots of improvement needed. 
 
 
 ##Skills: 
