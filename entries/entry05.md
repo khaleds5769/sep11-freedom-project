@@ -78,6 +78,11 @@ I am now using the same variable `collectionInfo` to pop an input. This helps th
 
 
 
+##Skills: 
+
+I have gained lots of skills throughout this whole process. I have gained the skill of patience and trial and error. I have gained the skill to research online as well as communication. I had difficulties and I needed some understanding and this made me ask questions. 
+
+
 
 
 
