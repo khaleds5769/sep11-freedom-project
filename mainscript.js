@@ -43,18 +43,15 @@ onAuthStateChanged(auth, (user) => {
 
 
       var collectionInfo = doc.data().globalData
-     
-
-      
-        
+    
         console.log(collectionInfo)
         itemlist()
 
         
         
         document.querySelector("#submit").addEventListener("click", function(){
-            var item = document.querySelector("#todo")
-            console.log(item.value)
+        var item = document.querySelector("#todo")
+        console.log(item.value)
         collectionInfo.push(item.value)
         var list = document.createElement("li")
         list.innerHTML = item.value

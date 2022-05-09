@@ -1,4 +1,3 @@
-
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.9/firebase-app.js";
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/9.6.9/firebase-auth.js';
 import { getFirestore, collection, getDocs, addDoc, doc, setDoc } from 'https://www.gstatic.com/firebasejs/9.6.9/firebase-firestore.js';
@@ -37,6 +36,11 @@ const auth = getAuth()
 //selecting the login form
 const loginForm = document.querySelector(".login")
 
+// var nextfile = document.querySelector('.text-2xl')
+//   nextfile.addEventListener("click", function(){
+//   window.location.replace(mainindex.html);
+// }
+
 //selecting the logOut button
 const loggingOut = document.querySelector("#logoutUser")
 
@@ -55,6 +59,7 @@ loginForm.addEventListener('submit', (e) => {
     .then(cred => {
       console.log('user logged in:', cred.user)
       loginForm.reset()
+      window.location.href = "mainindex.html";
     })
     .catch(err => {
       console.log(err.message)
@@ -62,6 +67,7 @@ loginForm.addEventListener('submit', (e) => {
 })
 
 
+  
 
 
 //loging the user out

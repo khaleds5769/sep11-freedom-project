@@ -46,35 +46,35 @@ document.querySelector("#reg").addEventListener("click", function(){
 
     signupForm.addEventListener('submit', (e) => {
       e.preventDefault()
-  
+
       const email = signupForm.newUser.value
       const password = signupForm.newPass.value
-  
+
       createUserWithEmailAndPassword(auth, email, password)
         .then(cred => {
           console.log('user created:', cred.user)
-  
-  
+
+             window.location.href = "login.html";
           const colAccount = doc(db, 'accounts', cred.user.uid)
-  
+
               setDoc(colAccount, {globalData: [], userData:[] })
-  
-  
-    
-  
+
+
+
+
           signupForm.reset();
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
         })
         .catch(err => {
           console.log(err.message)
         })
 
-  
+
     })
 
 })
