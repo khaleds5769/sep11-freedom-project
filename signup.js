@@ -42,7 +42,7 @@ const signupForm = document.querySelector('.signup')
 document.querySelector("#reg").addEventListener("click", function(){
 
 
-
+window.location.href = "login.html";
 
     signupForm.addEventListener('submit', (e) => {
       e.preventDefault()
