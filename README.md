@@ -9,9 +9,9 @@ For my project, I am making a To-do list. This blog will walk through my process
 
 ## Links
 
-Product
+[Product](https://khaleds5769.github.io/sep11-freedom-project/index.html)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1EEmsZDWmTdPMGnB0nbtny9IUYJvLb6KcuolGJU8Hd7M/edit#slide=id.g12aa4c54b00_0_7)
 
 ## Implications
 X
