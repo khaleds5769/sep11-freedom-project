@@ -2,7 +2,7 @@
 by Khaled Saleh
 
 ## Context
-The "Freedom Project" for SEP11 is all about learning a tool and using that tool to make a webiste that helps solve world problems. The purpose of this blog is to write and talk about my process of learning and building with my tool which is Firebase.
+The "Freedom Project" for SEP11 is all about learning a tool and using that tool to make a website that helps solve world problems. The purpose of this blog is to write and talk about my process of learning and building with my tool which is Firebase.
 
 ## Content
 For my project, I am making a To-do list. This blog will walk through my process of independently studying FireBase in order to make a To-Do List.
