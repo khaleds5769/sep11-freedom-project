@@ -7,7 +7,9 @@ As I am wrapping my Freedom Project, looking back at the process it took me to a
 Currently where I'm at with the `Engineering Design Process` is `communitcating the results`. After finishing the expo, I created a presentation on google slide to present my product to my classmates. I was able to use previous blog entries to reflect on my learning process. Presentation was also nerve-racking because I was nervous with the fact of standing in front of the room presenting to the whole class. I was able to learn from this presentation skills that will help me later on in life. 
 
 
+I have learned a lot of `skills` throughout the process of me creating firebase but also presenting my project. One skill I learned is the ability to present confidently while maintaining eye contact throughout the crowd. I also learned a really important factor for presentations. Creating a hook to grab the listeners attention so that they are interested in hearing what you will say. 
 
+To try out my product you can try it [here](https://khaleds5769.github.io/sep11-freedom-project/index.html)
 
 
 
