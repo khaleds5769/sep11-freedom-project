@@ -14,7 +14,8 @@ For my project, I am making a To-do list. This blog will walk through my process
 [Presentation](https://docs.google.com/presentation/d/1EEmsZDWmTdPMGnB0nbtny9IUYJvLb6KcuolGJU8Hd7M/edit#slide=id.g12aa4c54b00_0_7)
 
 ## Implications
-X
+As we grow older and older, we start having more responsibilities and chores that we have to do, and keeping that all in our head can be overwhelming causing loss of memory. A to-do list helps people write down what they need to do for the day so they don't forget. I created a to-do list because I know this is a real problem that people face however, just as a to-do list has its positives, it also has its negatives. To-do lists are known positively because they help people remember what they need to do, however, a to-do list can also overwhelm a person. Looking at a bunch of things that need to be done can be overwhelmingly stressful. Knowing you have to complete the whole thing in a certain amount of time can cause stress as well. Many people also write down things they say will do but don't actually do it. This can cause unproductivity. We can see that a to-do List can have both a positive and negative impact on us however it is up to us to decide on how we want to use it. 
+
 
 ---
 
